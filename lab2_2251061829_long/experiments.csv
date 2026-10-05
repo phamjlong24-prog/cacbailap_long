@@ -1,0 +1,7 @@
+experiment,accuracy
+E1a: Không trim,60.0
+E1b: Có trim,50.0
+E2a: 13 MFCC,50.0
+E2b: 13 MFCC + Δ,50.0
+E3a: 1 template/từ,30.0
+E3b: 3 template/từ,50.0
