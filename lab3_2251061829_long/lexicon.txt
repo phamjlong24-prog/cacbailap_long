@@ -1,0 +1,11 @@
+# lexicon.txt — Lab 3 CSE457
+# Định dạng: WORD PHONE_1 PHONE_2 ... PHONE_K   (mỗi dòng một từ, dòng bắt đầu bằng # là chú thích)
+# WORD dùng nhãn không dấu, trùng tên thư mục dữ liệu và tên model.
+# Phone ở đây là bộ ký hiệu TẠM: phụ âm đầu + nguyên âm + âm cuối + thanh điệu (T1 ngang, T2 huyền,
+# T3 hỏi, T4 ngã, T5 sắc, T6 nặng). Nếu giảng viên cung cấp phone inventory chuẩn của lớp,
+# chỉ cần thay cột phone, code parser trong notebook không phải sửa.
+mo      m  oo  T3
+dong    dd o   ngm T5
+len     l  e   n   T1
+xuong   s  uo  ng  T5
+dung    z  ux  ng  T2

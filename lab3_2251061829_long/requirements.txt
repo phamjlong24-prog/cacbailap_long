@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+librosa
+soundfile
+scikit-learn
+hmmlearn
+jupyter
+# chỉ cần nếu dùng record_dataset.py để thu âm:
+sounddevice

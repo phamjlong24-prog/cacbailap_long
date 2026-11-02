@@ -1,0 +1,23 @@
+# corpus.txt — chuỗi lệnh mẫu dùng để đếm unigram/bigram (phần G)
+# Mỗi dòng là một phiên điều khiển (ví dụ: cửa cuốn / thang máy), các lệnh cách nhau bởi dấu cách.
+# Có thể thay bằng danh sách câu/lệnh do giảng viên cung cấp; giữ nhãn không dấu: mo dong len xuong dung
+mo dung dong
+mo dong
+mo dung
+len dung
+len dung xuong dung
+xuong dung
+xuong dung len dung
+mo len dung
+mo xuong dung dong
+len dung mo dong
+xuong dung mo dong
+mo dong len dung
+dong xuong dung
+dong len dung
+len len dung
+xuong xuong dung
+mo dung dong dung
+len dung xuong dung mo dong
+dung mo dong
+mo dong xuong dung
