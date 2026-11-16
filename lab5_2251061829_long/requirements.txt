@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+librosa
+soundfile
+scikit-learn
+jupyter
+sounddevice  # chỉ cần cho record_dataset.py

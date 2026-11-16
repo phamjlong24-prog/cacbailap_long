@@ -1,0 +1,8 @@
+lab4_data/
+lab5_data/
+results/
+audio_output/
+figures/
+*.wav
+__pycache__/
+.ipynb_checkpoints/

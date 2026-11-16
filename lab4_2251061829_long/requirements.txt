@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+librosa
+soundfile
+jupyter
+# neural TTS offline (Piper) – cần cho phần F:
+piper-tts
+# chỉ cần nếu dùng record_units.py để thu âm:
+sounddevice
